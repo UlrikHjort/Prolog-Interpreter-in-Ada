@@ -2,6 +2,12 @@
 
 A fully-featured Prolog interpreter written in Ada, implementing core logic programming features including unification, backtracking, and a set of built-in predicates.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Ada-2012-blue.svg" alt="Ada 2012">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+</p>
+
+
 ![REPL Screenshot](REPL.png)
 
 ## Features
